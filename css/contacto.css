@@ -1,0 +1,101 @@
+.contactos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 60px 50px;
+  background: #FF016A;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.8);
+  border-radius: 90px;
+}
+
+.contactos__lugar {
+  display: flex;
+  padding: 30px;
+}
+
+.contactos__lugar img {
+  width: 70px;
+  height: 70px;
+}
+
+.contactos__lugar__texto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.contactos__lugar__texto h3{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.contactos__lugar__texto p {
+  color: #FFFFFF;
+}
+
+.contactos__telefono {
+  display: flex;
+  padding: 30px;
+}
+
+.contactos__telefono img {
+  width: 70px;
+  height: 70px;
+}
+
+.contactos__telefono__texto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contactos__telefono__texto h3 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.contactos__telefono__texto p {
+  color:  #FFFFFF;
+}
+
+.contactos__mensaje {
+  display: flex;
+  padding: 30px;
+}
+
+.contactos__mensaje img {
+  width: 70px;
+  height: 70px;
+}
+
+.contactos__mensaje__texto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contactos__mensaje__texto h3 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.contactos__mensaje p {
+  color: #FFFFFF;
+}
+.introduccion__parrafo {
+  color: #FFFFFF;
+}
+
+
+

@@ -1,0 +1,62 @@
+.realidad {
+  margin: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.realidad__img {
+  width: 30%;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  background: #A3A3A3;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 100px 240px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.realidad__virtual {
+  padding-left: 50px;
+}
+
+.realidad__virtual h3 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  color: #07FBCE;
+}
+
+.realidad__virtual h5 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  color: #ECEBFF;
+}
+
+.realidad__virtual p {
+  color: #ECEBFF;
+  padding: 20px 0px;
+}
+
+.realidad__virtual__button {
+  margin: 12px;
+  padding: 10px 20px;
+  height: 40px;
+  border: none;
+  font-size: 14px;
+  color: #FFFFFF;
+  border-radius: 7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  transition: 0.5s;
+  transition-property: box-shadow;
+  background: #FF016A;
+}
+
+.realidad__virtual__button:hover {
+  background: #07FBCE;
+  color: #000000;
+}

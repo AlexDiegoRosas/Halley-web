@@ -1,0 +1,33 @@
+.introduccion {
+  display: flex;
+  justify-content: space-between;
+  /*align-items: center;*/
+  margin: 50px;
+}
+
+.introduccion__title {
+  padding: 20px;
+}
+
+.introduccion__title h3 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  color: #07FBCE;
+}
+
+.introduccion__title h5 {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 44px;
+  color: #ECEBFF;
+}
+
+.introduccion p {
+  padding: 20px;
+  padding-left: 70px;
+}
