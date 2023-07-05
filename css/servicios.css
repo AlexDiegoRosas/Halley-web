@@ -1,0 +1,239 @@
+.servicios__title {
+  margin: 50px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  color: #07FBCE;
+}
+
+.servicios {
+  margin: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.servicios__3d {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid 5px #6C0CAC;
+  border-radius: 40px;
+  padding: 20px;
+}
+
+.servicios__3d__img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: solid 3px #FF016A;
+}
+
+.servicios__3d__title {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #07FBCE;
+  padding: 12px;
+}
+
+.servicios__3d__parrafo {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  color: #ECEBFF;
+  padding: 12px;
+}
+
+.servicios__3d__button {
+  margin: 20px;
+  margin-top: 40px;
+  padding: 10px 20px;
+  width: 200px;
+  height: 40px;
+  border: none;
+  font-size: 14px;
+  color: #FFFFFF;
+  border-radius: 7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #FF016A; 
+}
+
+.servicios__3d__button:hover {
+  background: #07FBCE;
+  color: #000000;
+}
+
+.servicios__2d {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid 5px #6C0CAC;
+  border-radius: 40px;
+  padding: 20px;
+}
+
+.servicios__2d__img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: solid 3px #FF016A;
+}
+
+.servicios__2d__title {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #07FBCE;
+  padding: 12px;
+}
+
+.servicios__2d__parrafo {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  color: #ECEBFF;
+  padding: 12px;
+}
+
+.servicios__2d__button {
+  margin: 20px;
+  margin-top: 40px;
+  padding: 10px 20px;
+  width: 200px;
+  height: 40px;
+  border: none;
+  font-size: 14px;
+  color: #FFFFFF;
+  border-radius: 7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #FF016A; 
+}
+
+.servicios__2d__button:hover {
+  background: #07FBCE;
+  color: #000000;
+}
+
+.servicios__web {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: transparent;
+  border: solid 5px #6C0CAC;
+  border-radius: 40px;
+  padding: 20px;
+}
+
+.servicios__web__img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: solid 3px #FF016A;
+}
+
+.servicios__web__title {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #07FBCE;
+  padding: 12px;
+}
+
+.servicios__web__parrafo {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  color: #ECEBFF;
+  padding: 12px;
+}
+
+.servicios__web__button {
+  margin: 20px;
+  margin-top: 40px;
+  padding: 10px 20px;
+  width: 200px;
+  height: 40px;
+  border: none;
+  font-size: 14px;
+  color: #FFFFFF;
+  border-radius: 7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #FF016A;  
+}
+
+.servicios__web__button:hover {
+  background: #07FBCE;
+  color: #000000;
+}
+
+.servicios__vr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid 5px #6C0CAC;
+  border-radius: 40px;
+  padding: 20px;
+}
+
+.servicios__vr__img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: solid 3px #FF016A;
+}
+
+.servicios__vr__title {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #07FBCE;
+  padding: 12px; 
+}
+
+.servicios__vr__parrafo {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  color: #ECEBFF;
+  padding: 12px;
+}
+
+.servicios__vr__button {
+  margin: 20px;
+  margin-top: 40px;
+  padding: 10px 20px;
+  width: 200px;
+  height: 40px;
+  border: none;
+  font-size: 14px;
+  color: #FFFFFF;
+  border-radius: 7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #FF016A; 
+}
+
+.servicios__vr__button:hover {
+  background: #07FBCE;
+  color: #000000;
+}
