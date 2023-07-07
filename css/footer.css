@@ -1,0 +1,97 @@
+.footers {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.footers__logo-img {
+  width: 10em;
+  border-radius: 12px;
+  margin-right: 20px;
+}
+
+.footers__pestanas {
+  display: flex;
+  flex-direction: column;
+}
+
+.footers__pestanas-link {
+  color: #07FBCE;
+  padding: 12px;
+  margin-right: 20px;
+}
+
+.footers__pestanas-link:hover {
+  color: #FF016A;
+  cursor: pointer;
+}
+
+.footers__asistencia {
+  display: flex;
+  flex-direction: column;
+}
+
+.footers__asistencia-link {
+  color: #07FBCE;
+  padding: 12px;
+  margin-right: 20px;
+}
+
+.footers__asistencia-link:hover {
+  color: #FF016A;
+  cursor: pointer;
+}
+
+.footers__redes-sociales {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footers__redes h5 {
+  color: #07FBCE;
+  padding: 12px;
+}
+
+.footers__redes-sociales-icono {
+  background-color: #07FBCE;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin-right: 12px;
+}
+
+.footers__redes-sociales-icono:hover {
+  background-color: #FF016A;
+  cursor: pointer;
+}
+
+.footers__redes-button {
+  margin: 20px;
+  margin-top: 40px;
+  padding: 10px 20px;
+  width: 300px;
+  height: 40px;
+  border: none;
+  font-size: 14px;
+  color: #FFFFFF;
+  border-radius: 7px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #FF016A;
+}
+
+.footers__redes-button:hover {
+  background: #07FBCE;
+  color: #000000;  
+}
+
+.footer__derechos {
+  display: flex;
+  justify-content: center;
+}
+
+.footer__derechos h5 {
+  color: #FFF;
+  padding: 20px;
+  padding-bottom: 50px;
+}
